@@ -198,6 +198,15 @@ public:
     }
 };
 
+
+// Interviewer: Sounds good. What makes your approach effective?
+// Candidate: Here are the key strengths of my approach:
+// 1. Simplicity: The design is kept minimal and straightforward, avoiding unnecessary complexity.
+// 2. Clarity: It's easy to understand, which makes it accessible for developers to implement and maintain.
+// 3. Efficiency: The implementation is direct and logical, ensuring smooth gameplay.
+// 4. Separation of Concerns: Each component has a clear responsibility, enhancing modularity and ease of updates.
+
+
 int main(){
     return 0;
 }
